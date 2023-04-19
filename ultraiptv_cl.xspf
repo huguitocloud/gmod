@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/291.ts</location>
+			<title>24/7 El chavo del 8</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/8888.ts</location>
+			<title>CL: Animal Planet</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/47.ts</location>
+			<title>CL: 13C HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/8724.ts</location>
+			<title>CL: Cámara de Diputados TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/3.ts</location>
+			<title>CL: Canal 13 Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/4.ts</location>
+			<title>CL: Canal 13 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9752.ts</location>
+			<title>CL: Canal 13</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/5.ts</location>
+			<title>CL: CHV Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9753.ts</location>
+			<title>CL: CHV *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/6.ts</location>
+			<title>CL: CHV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9049.ts</location>
+			<title>CL: CHV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9754.ts</location>
+			<title>CL: CHV **</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9722.ts</location>
+			<title>CL: Cinecanal HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9033.ts</location>
+			<title>CL: Discovery Home &amp; Health HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9032.ts</location>
+			<title>CL: Disney Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9106.ts</location>
+			<title>CL: El Gourmet HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/1513.ts</location>
+			<title>CL: ETC TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/55.ts</location>
+			<title>CL: Star Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9.ts</location>
+			<title>CL: La Red Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/10.ts</location>
+			<title>CL: La Red HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9758.ts</location>
+			<title>CL: La Red</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/1.ts</location>
+			<title>CL: Mega Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/2.ts</location>
+			<title>CL: Mega HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/7469.ts</location>
+			<title>CL: Mega</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9748.ts</location>
+			<title>CL: Mega Plus HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/51.ts</location>
+			<title>CL: Nat Geo HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/52.ts</location>
+			<title>CL: Rec TV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9709.ts</location>
+			<title>CL: Space HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/8680.ts</location>
+			<title>CL: Teletrak HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/56.ts</location>
+			<title>CL: TNT HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/12.ts</location>
+			<title>CL: TV + HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/8725.ts</location>
+			<title>CL: TV Senado</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/7.ts</location>
+			<title>CL: TVN Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9755.ts</location>
+			<title>CL: TVN *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/8.ts</location>
+			<title>CL: TVN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9050.ts</location>
+			<title>CL: TVN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/9756.ts</location>
+			<title>CL: TVN **</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/7464.ts</location>
+			<title>CNN Chile HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/7471.ts</location>
+			<title>CNN en Español</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/2111.ts</location>
+			<title>T13 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/2129.ts</location>
+			<title>TeleSUR HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/2130.ts</location>
+			<title>TeleSUR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/93.ts</location>
+			<title>TNT Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/3371.ts</location>
+			<title>TNT HD *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/134.ts</location>
+			<title>TNT HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/94.ts</location>
+			<title>TNT Series Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/3324.ts</location>
+			<title>TNT Series HD *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/132.ts</location>
+			<title>TNT Series HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/10500.ts</location>
+			<title>CL: NTV Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/10501.ts</location>
+			<title>CL: NTV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/11895.ts</location>
+			<title>CL: Popular TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/12184.ts</location>
+			<title>CL: History HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13307.ts</location>
+			<title>CL: HGTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13436.ts</location>
+			<title>TNT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13437.ts</location>
+			<title>TNT Series</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13455.ts</location>
+			<title>CL: UCV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13494.ts</location>
+			<title>CNN Chile</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13495.ts</location>
+			<title>CNN Chile *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13501.ts</location>
+			<title>CL: E! HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13503.ts</location>
+			<title>CL: HBO HD SUB</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13504.ts</location>
+			<title>CL: Cinemax</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13509.ts</location>
+			<title>CL: AXN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13641.ts</location>
+			<title>CL: Maulevision</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13887.ts</location>
+			<title>CL: History 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13888.ts</location>
+			<title>CL: Via X</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/13889.ts</location>
+			<title>CL: Via X 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14275.ts</location>
+			<title>CL: Origen TV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14276.ts</location>
+			<title>CL: Origen TV Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14278.ts</location>
+			<title>CL: History 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14281.ts</location>
+			<title>CL: Love Nature</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14846.ts</location>
+			<title>CL: Canal 13 Teleseries</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14847.ts</location>
+			<title>CL: Canal 13 Entretención</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14848.ts</location>
+			<title>CL: Canal 13 Prime</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14849.ts</location>
+			<title>CL: Canal 13 Cultura</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14855.ts</location>
+			<title>TNT Full HD *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14856.ts</location>
+			<title>TNT Series Full HD *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14867.ts</location>
+			<title>CL: Mega *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14868.ts</location>
+			<title>CL: Mega **</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14869.ts</location>
+			<title>CL: La Red *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14870.ts</location>
+			<title>CL: La Red **</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14871.ts</location>
+			<title>CL: CHV ***</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14872.ts</location>
+			<title>CL: Canal 13 *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14873.ts</location>
+			<title>CL: TV +</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14874.ts</location>
+			<title>CL: TV + **</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14875.ts</location>
+			<title>CL: TV + *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14876.ts</location>
+			<title>CL: 13C</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14877.ts</location>
+			<title>CL: 13C *</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14878.ts</location>
+			<title>CL: 13C **</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14879.ts</location>
+			<title>CL: Canal 13 **</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14880.ts</location>
+			<title>CL: Rec TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14893.ts</location>
+			<title>CL: UCV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14894.ts</location>
+			<title>CL: UCV 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.iptv.wtf:80/live/lgpenhpo/yF33cy8U1b/14903.ts</location>
+			<title>CL: Canal 13 Realities</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+	</extension>
+</playlist>
